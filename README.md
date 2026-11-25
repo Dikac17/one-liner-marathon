@@ -1,8 +1,8 @@
 # One-Liner Marathon
 
-[![GitHub repo](https://img.shields.io/badge/GitHub-Dikac17%2Fone--liner--marathon-blue)](https://github.com/Dikac17/one-liner-marathon)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js 22](https://img.shields.io/badge/Node.js-22-green.svg)](https://nodejs.org/)
+[![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/Dikac17/one-liner-marathon/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/Dikac17/one-liner-marathon/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 
 A one-line comedy joke for the [One-Liner Marathon](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2) bounty on make.fun — a single joke of at most 280 characters, judged head to head on how hard it lands.
 
